@@ -10,7 +10,7 @@ For more info visit: https://animalcrossing.fandom.com/wiki/Language
 # Work in progress 
 Only Spanish voices (vowel and consonant pronunciations) are available at the moment. Future releases may include language options.
 
-![alt text](https://imgur.com/gallery/VzRKSmP)
+![alt text](preview.png)
 
 # Fun fact
 Voices are all made by myself.
