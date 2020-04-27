@@ -7,10 +7,11 @@ Depending on the villager's mood, their voice will change pitch or volume. Sad v
 
 For more info visit: https://animalcrossing.fandom.com/wiki/Language
 
+# Preview
+![alt text](preview.png)
+
 # Work in progress 
 Only Spanish voices (vowel and consonant pronunciations) are available at the moment. Future releases may include language options.
-
-![alt text](preview.png)
 
 # Fun fact
 Voices are all made by myself.
